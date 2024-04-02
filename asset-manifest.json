@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mangata-Gallo-with-React/static/css/main.c6ba8171.css",
+    "main.js": "/Mangata-Gallo-with-React/static/js/main.875fcfce.js",
+    "index.html": "/Mangata-Gallo-with-React/index.html",
+    "main.c6ba8171.css.map": "/Mangata-Gallo-with-React/static/css/main.c6ba8171.css.map",
+    "main.875fcfce.js.map": "/Mangata-Gallo-with-React/static/js/main.875fcfce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6ba8171.css",
+    "static/js/main.875fcfce.js"
+  ]
+}
