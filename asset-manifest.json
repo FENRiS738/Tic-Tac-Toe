@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Mangata-Gallo-with-React/static/css/main.c6ba8171.css",
-    "main.js": "/Mangata-Gallo-with-React/static/js/main.875fcfce.js",
-    "index.html": "/Mangata-Gallo-with-React/index.html",
-    "main.c6ba8171.css.map": "/Mangata-Gallo-with-React/static/css/main.c6ba8171.css.map",
-    "main.875fcfce.js.map": "/Mangata-Gallo-with-React/static/js/main.875fcfce.js.map"
+    "main.css": "/Tic-Tac-Toe/static/css/main.c6ba8171.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.875fcfce.js",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "main.c6ba8171.css.map": "/Tic-Tac-Toe/static/css/main.c6ba8171.css.map",
+    "main.875fcfce.js.map": "/Tic-Tac-Toe/static/js/main.875fcfce.js.map"
   },
   "entrypoints": [
     "static/css/main.c6ba8171.css",
